@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+    border-width : 3px;
+    border-style: double;
+    border-color: blue;
+}
+
+td, th {
+    padding: 3px;  /* Поля вокруг содержимого таблицы */
+    border: 2px solid black; /* Параметры рамки */
+   }
+
+span {
+    color: rgb(236, 74, 74);
+}

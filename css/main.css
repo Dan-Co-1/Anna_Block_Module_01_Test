@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+p {
+    color:greenyellow; 
+}
+
+q {
+    quotes: "\201c" "\201d"; /* Изменение вида кавычек */
+}
+
+li {
+    color: orange;
+}
